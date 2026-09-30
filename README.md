@@ -150,6 +150,5 @@ heart-disease-analysis/
 │   └── findings.py
 │
 ├── index.py
-├── requirements.txt
 └── README.md
 ```
