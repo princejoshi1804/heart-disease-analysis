@@ -18,3 +18,6 @@ output/
 
 # Python cache
 .pytest_cache/
+
+#Ignore Jupyter checkpoints
+**/.ipynb_checkpoints/
