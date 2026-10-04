@@ -130,8 +130,8 @@ The project can be executed using:
 ```text
 heart-disease-analysis/
 │
-├── data/
-│   └── README.md
+├── notebooks/
+│   └── heart_disease_analysis.ipynb
 │
 ├── output/
 │   ├── tables/
